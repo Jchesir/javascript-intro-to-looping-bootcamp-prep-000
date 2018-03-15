@@ -21,7 +21,9 @@ function whileLoop(digit){
 }
 
 function doWhileLoop(array){
-    array.pop  
+  function maybeTrue() {
+  return Math.random() >= 0.5
+}
     while (maybeTrue())
     return array
 }
