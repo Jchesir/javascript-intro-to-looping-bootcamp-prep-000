@@ -21,7 +21,7 @@ function whileLoop(digit){
 }
 
 function doWhileLoop(array){
-    array.pop } 
+    array.pop  
     while (maybeTrue())
     return array
-
+}
